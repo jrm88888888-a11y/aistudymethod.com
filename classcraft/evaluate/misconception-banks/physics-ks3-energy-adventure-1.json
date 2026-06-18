@@ -1,0 +1,42 @@
+{
+  "stem": "physics-ks3-energy-adventure-1",
+  "topic": "Energy",
+  "subject": "physics",
+  "level": "ks3",
+  "quality": "low",
+  "matched_items": 0,
+  "items": [
+    {
+      "q": "Which type of nuclear radiation is most ionising?",
+      "correct": "Alpha radiation — large, doubly charged particles cause the most ionisation per unit distance.",
+      "misconception": "Gamma is most ionising because it can travel furthest and pass through almost anything.",
+      "random_wrong": "Beta radiation is most ionising because it consists of fast electrons.",
+      "why": "Students conflate penetrating power with ionising power — gamma penetrates most because it ionises least, the opposite of intuition."
+    },
+    {
+      "q": "A book on a high shelf has lots of energy in its:",
+      "correct": "gravitational store",
+      "misconception": "kinetic store",
+      "random_wrong": "chemical store",
+      "why": "Correct answer: gravitational store. “kinetic store” sounds right because it borrows the language of the topic — but it fails this question. Re-read the notes on why.",
+      "src": "mcq"
+    },
+    {
+      "q": "Petrol stores energy in which form?",
+      "correct": "chemical",
+      "misconception": "thermal",
+      "random_wrong": "kinetic",
+      "why": "The answer examiners want is: chemical. “thermal” is the distractor this question was built around — if it tempted you, that's the exact gap to close.",
+      "src": "mcq"
+    },
+    {
+      "q": "How many joules of work are done when a 10 N force moves an object 3 m?",
+      "correct": "30 J",
+      "misconception": "13 J",
+      "random_wrong": "300 J",
+      "why": "Exact answer: 30 J. Estimation gets you near it; only the anchored number survives the exam hall.",
+      "src": "numerical"
+    }
+  ],
+  "derived_items": 3
+}

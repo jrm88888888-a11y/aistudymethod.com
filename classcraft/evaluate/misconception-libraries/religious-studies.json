@@ -1,0 +1,405 @@
+{
+  "subject": "religious-studies",
+  "items": [
+    {
+      "topic_keywords": ["christianity", "trinity", "god", "doctrine"],
+      "concept_keywords": ["three persons", "one substance", "monotheism"],
+      "level": ["gcse", "a-level"],
+      "q": "What is the doctrine of the Trinity?",
+      "correct": "God is one being existing in three persons (Father, Son, Holy Spirit) — distinct in person but united in essence; Christians remain monotheistic.",
+      "misconception": "Christians believe in three different gods.",
+      "random_wrong": "The Trinity refers to heaven, earth and hell.",
+      "why": "Students treat 'three persons' as 'three gods'. The orthodox position is one God in three distinct persons sharing one substance — a notoriously difficult concept students often misrepresent as polytheism."
+    },
+    {
+      "topic_keywords": ["islam", "five pillars", "practice"],
+      "concept_keywords": ["shahada", "salah", "zakat", "sawm", "hajj"],
+      "level": ["gcse"],
+      "q": "What is the Shahada?",
+      "correct": "The Islamic declaration of faith: 'There is no god but Allah, and Muhammad is the messenger of Allah' — affirming monotheism and Muhammad's prophethood.",
+      "misconception": "The Shahada is the requirement to pray five times a day.",
+      "random_wrong": "The Shahada is the Islamic pilgrimage to Mecca.",
+      "why": "Students confuse the five pillars. Shahada is the declaration, Salah is prayer, Hajj is pilgrimage — each is a distinct pillar with a different function."
+    },
+    {
+      "topic_keywords": ["islam", "sunni", "shia", "division"],
+      "concept_keywords": ["succession", "muhammad", "caliph"],
+      "level": ["gcse", "a-level"],
+      "q": "What is the difference between Sunni and Shia Islam?",
+      "correct": "They split over who should lead the Muslim community after Muhammad: Sunnis accepted Abu Bakr and elected caliphs; Shias believed leadership should follow Muhammad's bloodline through Ali.",
+      "misconception": "Sunnis and Shias believe in different gods.",
+      "random_wrong": "Sunnis follow the Quran and Shias follow the Bible.",
+      "why": "Both share the Quran, prophet and core beliefs. The original split was political — about succession — and theological differences developed later. Students inflate it into a different religion."
+    },
+    {
+      "topic_keywords": ["judaism", "messiah", "expectation"],
+      "concept_keywords": ["mashiach", "messianic age", "christ"],
+      "level": ["gcse", "a-level"],
+      "q": "Why do Jews not accept Jesus as the Messiah?",
+      "correct": "Because the Jewish Messiah is expected to bring peace, rebuild the Temple and restore Israel — events the Jewish tradition holds Jesus did not accomplish.",
+      "misconception": "Because Jews believe Jesus never existed.",
+      "random_wrong": "Because Jesus was crucified, and the Messiah cannot die.",
+      "why": "Most Jewish thinkers accept Jesus existed as a historical figure. The disagreement is about whether he fulfilled messianic prophecies — a theological judgement, not denial of history."
+    },
+    {
+      "topic_keywords": ["hinduism", "gods", "polytheism", "brahman"],
+      "concept_keywords": ["brahman", "deva", "monism"],
+      "level": ["gcse", "a-level"],
+      "q": "Is Hinduism polytheistic?",
+      "correct": "It is more accurately described as henotheistic or monistic — many gods (devas) are considered aspects or manifestations of one ultimate reality (Brahman).",
+      "misconception": "Hinduism is straightforwardly polytheistic with millions of separate gods.",
+      "random_wrong": "Hinduism worships no gods, only ancestors.",
+      "why": "The 'many gods' surface obscures the underlying unity in much Hindu theology. Many traditions hold all deities to be expressions of one Brahman — students miss the monistic underpinning."
+    },
+    {
+      "topic_keywords": ["buddhism", "four noble truths", "suffering"],
+      "concept_keywords": ["dukkha", "tanha", "nirvana"],
+      "level": ["gcse", "a-level"],
+      "q": "What does Buddhism teach about suffering?",
+      "correct": "All existence involves dukkha (suffering/unsatisfactoriness), caused by tanha (craving and attachment); ending craving leads to liberation from suffering.",
+      "misconception": "Buddhism teaches that life is nothing but pain and misery.",
+      "random_wrong": "Buddhism teaches that suffering is caused by demons.",
+      "why": "Dukkha is broader than pain — it includes dissatisfaction and impermanence. Buddhism doesn't say life is misery; it says even pleasure carries inherent unsatisfactoriness because it ends."
+    },
+    {
+      "topic_keywords": ["buddhism", "nirvana", "enlightenment"],
+      "concept_keywords": ["extinction", "samsara", "liberation"],
+      "level": ["a-level"],
+      "q": "What is nirvana in Buddhism?",
+      "correct": "The 'blowing out' of the fires of craving, hatred and delusion — liberation from the cycle of rebirth (samsara), not a heavenly afterlife.",
+      "misconception": "Nirvana is the Buddhist version of heaven.",
+      "random_wrong": "Nirvana is the name of a Buddhist god.",
+      "why": "Students map nirvana onto Christian heaven — a place you go after dying. Nirvana is the cessation of the conditions that cause rebirth; it is more an end than a destination."
+    },
+    {
+      "topic_keywords": ["sikhism", "guru", "founder"],
+      "concept_keywords": ["nanak", "ten gurus", "granth sahib"],
+      "level": ["gcse"],
+      "q": "Who do Sikhs consider their living guru today?",
+      "correct": "The Guru Granth Sahib — the Sikh scripture, declared the eternal guru by Guru Gobind Singh after the line of ten human gurus ended.",
+      "misconception": "Sikhs follow a current living guru as their leader.",
+      "random_wrong": "Sikhs consider the Dalai Lama their current guru.",
+      "why": "The line of human gurus ended in 1708; guruship passed to scripture. Students assume a continuing line of personal teachers — missing the distinctive Sikh teaching about the eternal guru in the text."
+    },
+    {
+      "topic_keywords": ["utilitarianism", "bentham", "mill", "ethics"],
+      "concept_keywords": ["consequentialism", "happiness", "act", "rule"],
+      "level": ["a-level"],
+      "q": "What does utilitarianism say is right action?",
+      "correct": "The action that produces the greatest happiness for the greatest number — judged by consequences, not intentions or rules.",
+      "misconception": "Whatever makes you personally happy is the right thing to do.",
+      "random_wrong": "Utilitarianism says you should always tell the truth.",
+      "why": "Students reduce utilitarianism to egoism. It is impartial — your own happiness counts no more than anyone else's. Personal happiness alone misses the aggregative core."
+    },
+    {
+      "topic_keywords": ["deontology", "kant", "duty", "ethics"],
+      "concept_keywords": ["categorical imperative", "universal", "ends"],
+      "level": ["a-level"],
+      "q": "What does Kant's categorical imperative require?",
+      "correct": "Acting only on maxims you could will to be universal laws, and treating people as ends in themselves, never merely as means.",
+      "misconception": "Treat others how you would like to be treated.",
+      "random_wrong": "Do whatever your conscience tells you to do.",
+      "why": "The Golden Rule depends on your personal preferences (Kant explicitly rejected it). The categorical imperative tests universalisability — whether the maxim can coherently be a law for everyone."
+    },
+    {
+      "topic_keywords": ["virtue ethics", "aristotle", "character"],
+      "concept_keywords": ["eudaimonia", "golden mean", "habituation"],
+      "level": ["a-level"],
+      "q": "What is the focus of virtue ethics?",
+      "correct": "On character and habits — becoming the kind of person who acts well, aiming at eudaimonia (flourishing) through practising virtues that lie between extremes.",
+      "misconception": "Virtue ethics tells you which specific actions are right and wrong.",
+      "random_wrong": "Virtue ethics is about following the Ten Commandments.",
+      "why": "Virtue ethics asks 'what kind of person should I be?' rather than 'what should I do?'. Students try to extract action-rules from it, missing its character-based agent-focused nature."
+    },
+    {
+      "topic_keywords": ["natural law", "aquinas", "ethics"],
+      "concept_keywords": ["primary precepts", "secondary precepts", "telos"],
+      "level": ["a-level"],
+      "q": "What does natural law theory base morality on?",
+      "correct": "Human nature and reason — there are objective purposes (telos) built into humans which reason can discover, generating universal moral precepts.",
+      "misconception": "Natural law means whatever happens in nature is morally right.",
+      "random_wrong": "Natural law is the same thing as the laws of physics.",
+      "why": "The 'naturalistic fallacy' confusion — students assume natural law endorses lions eating gazelles or natural disasters. Aquinas's theory concerns human nature and rational ends, not all natural events."
+    },
+    {
+      "topic_keywords": ["cosmological argument", "first cause", "aquinas"],
+      "concept_keywords": ["contingency", "necessary being", "infinite regress"],
+      "level": ["a-level"],
+      "q": "What does the cosmological argument try to prove?",
+      "correct": "That the existence of the universe requires a first cause or necessary being — usually identified with God — to explain why anything exists at all.",
+      "misconception": "The cosmological argument proves who created life on Earth.",
+      "random_wrong": "The cosmological argument proves the Big Bang happened.",
+      "why": "Students mix up cosmology (science) with the cosmological argument (philosophy). The argument is about why anything exists at all, not the specific origins of life or the Big Bang."
+    },
+    {
+      "topic_keywords": ["teleological argument", "design", "paley"],
+      "concept_keywords": ["watch", "purpose", "complexity"],
+      "level": ["a-level"],
+      "q": "What does the teleological (design) argument claim?",
+      "correct": "Apparent purpose, order or complexity in the universe implies an intelligent designer — Paley's watchmaker analogy is the classic example.",
+      "misconception": "The design argument proves God created the world in seven days.",
+      "random_wrong": "The design argument proves evolution is false.",
+      "why": "The argument is philosophical, not anti-evolutionary. Many religious thinkers accept evolution as the designer's mechanism — students conflate design with young-earth creationism."
+    },
+    {
+      "topic_keywords": ["ontological argument", "anselm", "existence"],
+      "concept_keywords": ["a priori", "greatest", "definition"],
+      "level": ["a-level"],
+      "q": "What is distinctive about the ontological argument?",
+      "correct": "It tries to prove God's existence purely from the concept of God — a priori reasoning needing no empirical evidence about the world.",
+      "misconception": "The ontological argument uses scientific evidence to prove God exists.",
+      "random_wrong": "The ontological argument is the same as the cosmological argument.",
+      "why": "Anselm's argument is famously a priori — pure reasoning from definition. Students try to fit it into evidence-based frameworks, missing what makes it uniquely controversial in philosophy."
+    },
+    {
+      "topic_keywords": ["problem of evil", "theodicy", "suffering"],
+      "concept_keywords": ["augustine", "irenaeus", "free will"],
+      "level": ["a-level"],
+      "q": "What is the problem of evil?",
+      "correct": "If God is all-loving, all-knowing and all-powerful, why does evil and suffering exist? Logically, all four cannot be true together without explanation.",
+      "misconception": "It is the question of whether evil people will go to hell.",
+      "random_wrong": "It is the question of whether the devil really exists.",
+      "why": "Students treat it as a moral or eschatological question. It is actually a logical challenge to classical theism — and the central problem theodicies try to solve."
+    },
+    {
+      "topic_keywords": ["jesus", "messiah", "christology"],
+      "concept_keywords": ["incarnation", "fully god", "fully human"],
+      "level": ["gcse", "a-level"],
+      "q": "What do orthodox Christians believe about the nature of Jesus?",
+      "correct": "He is fully God and fully human at the same time (the incarnation) — both natures united in one person, as defined at the Council of Chalcedon.",
+      "misconception": "Jesus was half God and half human.",
+      "random_wrong": "Jesus was a human who became God after his resurrection.",
+      "why": "The 'half and half' model was historically rejected as heresy. Orthodox doctrine holds both natures fully and simultaneously — a deliberately paradoxical claim students often soften."
+    },
+    {
+      "topic_keywords": ["islam", "quran", "muhammad", "revelation"],
+      "concept_keywords": ["recitation", "gabriel", "wahy"],
+      "level": ["gcse"],
+      "q": "How do Muslims believe the Quran was revealed?",
+      "correct": "Through the angel Jibril (Gabriel) to Muhammad over 23 years; Muslims believe it is the literal word of God, not Muhammad's own words.",
+      "misconception": "Muhammad wrote the Quran based on his own teachings.",
+      "random_wrong": "The Quran was written by Allah and dropped from heaven.",
+      "why": "Authorship is theologically critical in Islam — the Quran is held to be God's exact speech transmitted via Gabriel. Students treat Muhammad as author, which contradicts core Islamic belief."
+    },
+    {
+      "topic_keywords": ["jihad", "islam", "struggle"],
+      "concept_keywords": ["greater jihad", "lesser jihad", "spiritual"],
+      "level": ["gcse", "a-level"],
+      "q": "What does the term jihad mean in Islam?",
+      "correct": "Struggle or striving — the greater jihad is the internal spiritual struggle against sin; the lesser jihad refers to defensive military struggle under strict conditions.",
+      "misconception": "Jihad means 'holy war' against non-Muslims.",
+      "random_wrong": "Jihad is the Islamic word for prayer.",
+      "why": "The 'holy war' translation is reductive and reflects media usage, not Islamic teaching. The primary meaning is spiritual struggle — military jihad is tightly constrained in classical Islamic law."
+    },
+    {
+      "topic_keywords": ["karma", "hinduism", "buddhism"],
+      "concept_keywords": ["action", "consequence", "rebirth"],
+      "level": ["gcse", "a-level"],
+      "q": "What does karma mean in Hindu and Buddhist thought?",
+      "correct": "The principle that actions have moral consequences shaping future experience or rebirth — not fate, but ethical cause and effect built into reality.",
+      "misconception": "Karma is when bad things happen to bad people as punishment.",
+      "random_wrong": "Karma is a god who decides what happens to you.",
+      "why": "Students treat karma as cosmic justice meted out by a deity. In its philosophical origins it is impersonal moral causation — your own actions, not external judgement, shape your circumstances."
+    },
+    {
+      "topic_keywords": ["situation ethics", "fletcher", "love"],
+      "concept_keywords": ["agape", "relativism", "christian"],
+      "level": ["a-level"],
+      "q": "What is the central principle of situation ethics?",
+      "correct": "The only intrinsically good thing is agape love; rules can be broken if doing so produces the most loving outcome in the situation.",
+      "misconception": "You should do whatever feels right in the moment.",
+      "random_wrong": "Situation ethics says rules should always be followed.",
+      "why": "Situation ethics is principled (love), not just intuition or relativism. Students collapse it into 'whatever feels right' — Fletcher's actual theory is more disciplined than that."
+    },
+    {
+      "topic_keywords": ["soul", "dualism", "descartes"],
+      "concept_keywords": ["mind body", "substance dualism", "material"],
+      "level": ["a-level"],
+      "q": "What is substance dualism about mind and body?",
+      "correct": "The view (associated with Descartes) that mind and body are two distinct kinds of substance — a non-physical mind interacting with a physical body.",
+      "misconception": "Substance dualism is the belief that humans have two personalities.",
+      "random_wrong": "Substance dualism means men and women are different.",
+      "why": "Students misread 'dualism' as referring to two of anything. It specifically refers to two kinds of substance (mental and physical) — a metaphysical position with deep philosophical implications."
+    },
+    {
+      "topic_keywords": ["miracles", "hume", "definition"],
+      "concept_keywords": ["laws of nature", "violation", "evidence"],
+      "level": ["a-level"],
+      "q": "How did Hume define a miracle?",
+      "correct": "A violation of the laws of nature by a particular volition of the Deity — and he argued evidence for such violations could never outweigh the uniform experience supporting the laws.",
+      "misconception": "Hume defined a miracle as something amazing or unexpected.",
+      "random_wrong": "Hume believed all miracles in the Bible really happened.",
+      "why": "Hume's definition is technical — a violation of natural law. Students soften it to mean 'remarkable event'. The strict definition is what makes his argument against believing in miracles work."
+    },
+    {
+      "topic_keywords": ["religious experience", "william james", "mystical"],
+      "concept_keywords": ["noetic", "ineffable", "transient"],
+      "level": ["a-level"],
+      "q": "What are James's four characteristics of mystical experience?",
+      "correct": "Ineffability (beyond words), noetic quality (gives knowledge), transience (temporary), and passivity (feeling acted upon by something greater).",
+      "misconception": "Religious experiences are just hallucinations caused by stress.",
+      "random_wrong": "Religious experiences only happen during dreams.",
+      "why": "James was a psychologist describing common features, not assessing truth. Students collapse the question of describing experience into the question of whether God caused it — distinct issues."
+    },
+    {
+      "topic_keywords": ["secularisation", "religion", "modernity"],
+      "concept_keywords": ["decline", "privatisation", "modern"],
+      "level": ["a-level"],
+      "q": "What does the secularisation thesis claim?",
+      "correct": "That as societies modernise, religion declines in social significance — though sociologists now debate this, since global religion has not declined uniformly.",
+      "misconception": "Secularisation means everyone in modern countries is now atheist.",
+      "random_wrong": "Secularisation means the separation of church and state.",
+      "why": "Secularisation refers to declining social influence, not universal atheism — many people in modern societies remain religious. Students also confuse it with secularism (the political principle)."
+    },
+    {
+      "topic_keywords": ["christianity", "atonement", "salvation"],
+      "concept_keywords": ["penal substitution", "christus victor", "ransom"],
+      "level": ["a-level"],
+      "q": "What are the main Christian theories of atonement?",
+      "correct": "Penal substitution (Christ bore the punishment for sin), Christus Victor (Christ defeated evil powers through the cross), ransom theory (Christ paid a price to free humanity), and moral exemplar (Christ's death inspires love). Different traditions emphasise different theories.",
+      "misconception": "All Christians believe Jesus died only to pay God back for sin.",
+      "random_wrong": "Atonement means Jesus apologised to humans for being born divine.",
+      "why": "Penal substitution dominates Protestant evangelicalism but isn't the only or oldest model. Christus Victor was prevalent in the early church and Orthodox traditions still emphasise it. Students often treat one model as 'the' Christian view of atonement."
+    },
+    {
+      "topic_keywords": ["christianity", "original sin", "augustine", "pelagius"],
+      "concept_keywords": ["original sin", "free will", "grace"],
+      "level": ["a-level"],
+      "q": "What was the Augustine vs Pelagius dispute about original sin?",
+      "correct": "Augustine argued humans inherit a corrupted nature from Adam (original sin) and cannot achieve salvation without grace; Pelagius argued humans retain free will to choose good without divine intervention and that sin is imitated, not inherited.",
+      "misconception": "Original sin means Christians believe babies are evil.",
+      "random_wrong": "Pelagius and Augustine agreed humans are born innocent.",
+      "why": "Original sin is about inherited nature/condition, not personal guilt of infants. The Pelagian controversy shaped Western Christianity — Augustine won, but the question of how far human nature is corrupted remains theologically contested."
+    },
+    {
+      "topic_keywords": ["christianity", "resurrection", "reincarnation"],
+      "concept_keywords": ["bodily resurrection", "afterlife", "eschatology"],
+      "level": ["gcse", "a-level"],
+      "q": "What do Christians mean by resurrection, and how does it differ from reincarnation?",
+      "correct": "Resurrection is the once-for-all bodily raising to eternal life at the end of time (modelled on Christ's resurrection); reincarnation is the soul's repeated rebirth into new bodies. They are distinct doctrines from different religious traditions.",
+      "misconception": "Resurrection and reincarnation are basically the same idea of life after death.",
+      "random_wrong": "Christians believe everyone is reincarnated until they accept Jesus.",
+      "why": "Christianity affirms one bodily resurrection, not cyclical rebirth. Students flatten different afterlife concepts into a single 'life after death' idea, missing the very different metaphysics involved."
+    },
+    {
+      "topic_keywords": ["islam", "tawhid", "monotheism"],
+      "concept_keywords": ["tawhid", "shirk", "oneness"],
+      "level": ["gcse", "a-level"],
+      "q": "What is Tawhid in Islam?",
+      "correct": "The absolute oneness and indivisibility of Allah — the most fundamental Islamic belief. Its opposite, shirk (associating partners with God), is the gravest sin.",
+      "misconception": "Tawhid is the Islamic word for the Trinity.",
+      "random_wrong": "Tawhid is the name of an Islamic prayer position.",
+      "why": "Tawhid is the strict denial of any plurality in God — directly contrasting with Trinitarian Christianity. Students sometimes invert the meaning entirely. The Quran's emphasis on Tawhid shapes Islamic theology, art (no images) and ethics."
+    },
+    {
+      "topic_keywords": ["judaism", "torah", "scripture"],
+      "concept_keywords": ["pentateuch", "five books", "moses"],
+      "level": ["gcse", "a-level"],
+      "q": "What is the Torah?",
+      "correct": "The first five books of the Hebrew Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy) — traditionally attributed to Moses and containing law, narrative and covenant.",
+      "misconception": "The Torah is the same as the Book of Genesis.",
+      "random_wrong": "The Torah is a single scroll containing every Jewish text.",
+      "why": "The Torah is five books, not one. Wider Jewish scripture (Tanakh) also includes Nevi'im (Prophets) and Ketuvim (Writings). Students often equate Torah with Genesis or with the whole Hebrew Bible."
+    },
+    {
+      "topic_keywords": ["judaism", "covenant", "abraham"],
+      "concept_keywords": ["covenant", "abraham", "chosen people"],
+      "level": ["gcse", "a-level"],
+      "q": "What does the Abrahamic covenant in Judaism involve?",
+      "correct": "God's promise to Abraham of land, descendants and blessing, in return for faithfulness — the foundational covenant marking Jews as a covenant people with responsibilities, not privileges.",
+      "misconception": "Being 'chosen' means Jews believe they are superior to other peoples.",
+      "random_wrong": "The covenant means Jews must not interact with non-Jews.",
+      "why": "Chosenness in Jewish theology means chosen for responsibility (following Torah, being a 'light to the nations'), not chosen for favour. Students misread it as ethnic supremacy, missing the obligation it imposes."
+    },
+    {
+      "topic_keywords": ["judaism", "reform", "orthodox"],
+      "concept_keywords": ["reform", "orthodox", "denominations"],
+      "level": ["a-level"],
+      "q": "How does Reform Judaism differ from Orthodox Judaism?",
+      "correct": "Reform Judaism treats Jewish law (halakhah) as evolving and not strictly binding, embraces modernity, and grants gender equality; Orthodox Judaism holds halakhah as divinely given and binding in detail, with traditional practice maintained.",
+      "misconception": "Reform Jews don't believe in God and Orthodox Jews do.",
+      "random_wrong": "Orthodox Judaism is a different religion from Reform Judaism.",
+      "why": "Both share belief in one God and Jewish identity. The difference is about authority and adaptability of law and practice, not the existence of belief. Students collapse this into a believer/non-believer split."
+    },
+    {
+      "topic_keywords": ["hinduism", "atman", "brahman"],
+      "concept_keywords": ["atman", "brahman", "non-dualism"],
+      "level": ["a-level"],
+      "q": "What is the relationship between atman and Brahman in Hindu philosophy?",
+      "correct": "Atman is the individual self/soul; Brahman is ultimate reality. In Advaita Vedanta, atman IS Brahman — the self is identical with ultimate reality, and liberation comes from realising this non-duality.",
+      "misconception": "Atman is the body and Brahman is the soul.",
+      "random_wrong": "Atman and Brahman are two competing Hindu gods.",
+      "why": "The atman-Brahman identity is the central insight of Advaita. Students invert the soul/body labels or treat both as deities. The teaching is metaphysical: separation between self and ultimate reality is illusion (maya)."
+    },
+    {
+      "topic_keywords": ["hinduism", "samsara", "moksha", "karma"],
+      "concept_keywords": ["samsara", "moksha", "liberation"],
+      "level": ["gcse", "a-level"],
+      "q": "How do samsara, karma and moksha fit together in Hindu thought?",
+      "correct": "Samsara is the cycle of rebirth; karma is the law of action and consequence that drives rebirth; moksha is liberation from samsara — these form a connected chain, not three independent ideas.",
+      "misconception": "Samsara, karma and moksha are three separate Hindu deities.",
+      "random_wrong": "Moksha is the Hindu word for heaven.",
+      "why": "Students learn the terms as a vocabulary list and miss the structural relationship: karma keeps you in samsara, and moksha releases you. Without the connection, the soteriology doesn't make sense."
+    },
+    {
+      "topic_keywords": ["buddhism", "anatta", "no-self"],
+      "concept_keywords": ["anatta", "no-self", "skandhas"],
+      "level": ["a-level"],
+      "q": "What does the Buddhist doctrine of anatta teach?",
+      "correct": "There is no permanent, unchanging self or soul — what we call 'self' is a constantly changing flow of five aggregates (skandhas). This is distinctively Buddhist and differs from the Hindu atman.",
+      "misconception": "Buddhists believe in a soul like the Christian or Hindu version.",
+      "random_wrong": "Anatta means Buddhists have no personality.",
+      "why": "Anatta is central to Buddhism and explicitly rejects the Hindu atman doctrine. Students assume all Eastern religions share the same soul concept, missing the deliberate contrast Buddhism draws."
+    },
+    {
+      "topic_keywords": ["buddhism", "buddha", "teacher"],
+      "concept_keywords": ["siddhartha", "teacher", "not god"],
+      "level": ["gcse", "a-level"],
+      "q": "Is the Buddha a god in Buddhism?",
+      "correct": "No — the Buddha (Siddhartha Gautama) is regarded as an enlightened human teacher who discovered the path to liberation. Theravada Buddhism is generally non-theistic; some Mahayana traditions develop more elaborate cosmologies.",
+      "misconception": "Buddhists worship the Buddha as their god.",
+      "random_wrong": "The Buddha created the universe.",
+      "why": "Statues and offerings look like worship to students, but classically the Buddha is venerated as teacher, not worshipped as creator god. The path he taught, not his divinity, is what matters in most Buddhist traditions."
+    },
+    {
+      "topic_keywords": ["buddhism", "eightfold path", "noble truths"],
+      "concept_keywords": ["eightfold path", "right view", "middle way"],
+      "level": ["a-level"],
+      "q": "What is the Eightfold Path in Buddhism?",
+      "correct": "The practical path to ending suffering: right view, right intention, right speech, right action, right livelihood, right effort, right mindfulness, right concentration — grouped into wisdom, ethical conduct and mental discipline.",
+      "misconception": "The Eightfold Path is the same as the Four Noble Truths.",
+      "random_wrong": "The Eightfold Path is eight gods Buddhists must please.",
+      "why": "The Four Noble Truths diagnose suffering; the Eightfold Path is the fourth truth — the prescription. They are connected but distinct. Students conflate them or treat the Path as a deity-list."
+    },
+    {
+      "topic_keywords": ["utilitarianism", "act", "rule"],
+      "concept_keywords": ["act utilitarian", "rule utilitarian", "mill"],
+      "level": ["a-level"],
+      "q": "What is the difference between act and rule utilitarianism?",
+      "correct": "Act utilitarianism judges each individual action by its consequences; rule utilitarianism follows rules that, if generally adopted, would produce the most good — sacrificing case-by-case calculation for predictability and fairness.",
+      "misconception": "Act and rule utilitarianism are basically the same approach.",
+      "random_wrong": "Act utilitarianism is about action movies and rule utilitarianism is about laws.",
+      "why": "The distinction matters for famous counterexamples (e.g. punishing the innocent). Act utilitarianism might endorse it if outcomes are better; rule utilitarianism rejects such practices because the rule would be harmful overall."
+    },
+    {
+      "topic_keywords": ["philosophy of religion", "aquinas", "five ways"],
+      "concept_keywords": ["five ways", "motion", "causation"],
+      "level": ["a-level"],
+      "q": "What are Aquinas's Five Ways?",
+      "correct": "Five distinct arguments for God's existence: from motion, causation, contingency, gradation of being, and final causes/teleology — collectively forming Aquinas's natural theology, not a single argument.",
+      "misconception": "Aquinas's Five Ways are five steps of one cosmological argument.",
+      "random_wrong": "Aquinas's Five Ways are five Christian sacraments.",
+      "why": "Each Way is a self-standing argument with different structure. Students treat them as a single chain, missing that Aquinas offered multiple independent routes — the failure of one doesn't undermine the others."
+    },
+    {
+      "topic_keywords": ["problem of evil", "free will defence", "plantinga"],
+      "concept_keywords": ["free will defence", "moral evil", "natural evil"],
+      "level": ["a-level"],
+      "q": "What distinction matters for the free will defence to the problem of evil?",
+      "correct": "Between moral evil (caused by free human choices) and natural evil (earthquakes, disease) — the free will defence directly addresses moral evil but struggles with natural evil, which isn't a product of free choice.",
+      "misconception": "The free will defence solves all forms of evil at once.",
+      "random_wrong": "Natural evil means evil that is good for nature.",
+      "why": "Students apply the free will defence to all evil. The challenge of natural evil is precisely that no one chose it, requiring other theodicies (Augustinian fallen world, Irenaean soul-making) to address it."
+    }
+  ]
+}

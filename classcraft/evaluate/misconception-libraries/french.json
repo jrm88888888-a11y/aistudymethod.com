@@ -1,0 +1,375 @@
+{
+  "subject": "french",
+  "items": [
+    {
+      "topic_keywords": ["present tense", "er verbs"],
+      "concept_keywords": ["conjugation", "regular"],
+      "level": ["gcse"],
+      "q": "What is the correct form of 'parler' (to speak) for 'nous'?",
+      "correct": "parlons.",
+      "misconception": "parle (using the je form).",
+      "random_wrong": "parlez.",
+      "why": "Students apply the same ending across persons. ER verbs use different endings: je parle, tu parles, il parle, NOUS parlons, vous parlez, ils parlent. Each subject takes its own ending."
+    },
+    {
+      "topic_keywords": ["passe compose", "auxiliary"],
+      "concept_keywords": ["avoir", "etre"],
+      "level": ["gcse", "a-level"],
+      "q": "Which verbs take 'être' as their auxiliary in the passé composé?",
+      "correct": "Movement/state-change verbs (DR & MRS VAN DER TRAMP) and all reflexive verbs.",
+      "misconception": "Just movement verbs - never reflexives.",
+      "random_wrong": "All verbs take avoir.",
+      "why": "Students forget reflexives. Both groups use être: aller/venir/monter, etc. AND every reflexive verb (je me suis lavé). With être, the past participle agrees with the subject."
+    },
+    {
+      "topic_keywords": ["gender", "nouns"],
+      "concept_keywords": ["masculine", "feminine"],
+      "level": ["gcse"],
+      "q": "Is 'le problème' masculine or feminine?",
+      "correct": "Masculine.",
+      "misconception": "Feminine (because it ends in -e).",
+      "random_wrong": "It has no gender.",
+      "why": "Students use 'ends in -e = feminine' as a rule. Many exceptions exist: le problème, le système, le programme, le poème - all masculine despite the -e ending. Gender must often be memorised."
+    },
+    {
+      "topic_keywords": ["adjective agreement", "gender"],
+      "concept_keywords": ["feminine", "plural"],
+      "level": ["gcse"],
+      "q": "What is the feminine plural form of 'beau'?",
+      "correct": "belles.",
+      "misconception": "beaus.",
+      "random_wrong": "beau (unchanged).",
+      "why": "Students apply default endings to irregular adjectives. Beau has irregular forms: beau (m), belle (f), beaux (m pl), BELLES (f pl). The feminine takes belle, then adds -s."
+    },
+    {
+      "topic_keywords": ["word order", "adjective placement"],
+      "concept_keywords": ["BAGS", "preceding"],
+      "level": ["gcse"],
+      "q": "Where does 'petit' usually go in relation to its noun?",
+      "correct": "Before the noun (un petit garçon).",
+      "misconception": "After the noun like most French adjectives.",
+      "random_wrong": "Either position with the same meaning.",
+      "why": "Students apply 'all French adjectives follow nouns' too rigidly. BAGS adjectives (Beauty, Age, Goodness, Size) typically PRECEDE. Petit (size) and bon (goodness) come before."
+    },
+    {
+      "topic_keywords": ["negation", "ne pas"],
+      "concept_keywords": ["sandwich", "verb"],
+      "level": ["gcse"],
+      "q": "How do you say 'I do not eat' in French?",
+      "correct": "Je ne mange pas.",
+      "misconception": "Je ne pas mange.",
+      "random_wrong": "Je mange ne pas.",
+      "why": "Students forget the verb 'sandwich'. Ne and pas wrap AROUND the verb in present tense - ne BEFORE the verb, pas AFTER. In compound tenses, they wrap around the auxiliary."
+    },
+    {
+      "topic_keywords": ["false friends", "cognates"],
+      "concept_keywords": ["faux amis"],
+      "level": ["gcse", "a-level"],
+      "q": "What does 'actuellement' mean in French?",
+      "correct": "Currently/at the moment.",
+      "misconception": "Actually (in reality).",
+      "random_wrong": "Annually.",
+      "why": "A classic faux ami. Actuellement looks like 'actually' but means CURRENTLY. To say 'actually' use en fait or en réalité. These false friends regularly cost marks."
+    },
+    {
+      "topic_keywords": ["false friends", "cognates"],
+      "concept_keywords": ["library"],
+      "level": ["gcse"],
+      "q": "What does 'librairie' mean?",
+      "correct": "Bookshop.",
+      "misconception": "Library.",
+      "random_wrong": "Liberty.",
+      "why": "Students assume librairie = library. It actually means BOOKSHOP. The French word for library is bibliothèque. Both relate to books but serve different purposes."
+    },
+    {
+      "topic_keywords": ["pronunciation", "silent letters"],
+      "concept_keywords": ["final consonants"],
+      "level": ["gcse"],
+      "q": "Which letter is typically SILENT at the end of French words like 'petit' or 'froid'?",
+      "correct": "Final consonants (the -t, -d).",
+      "misconception": "The vowels.",
+      "random_wrong": "All letters are pronounced equally.",
+      "why": "Students try to pronounce every letter. Final consonants in French are usually silent (CaReFuL exceptions: c, r, f, l). Petit is pronounced 'puh-TEE', not 'puh-TEET'."
+    },
+    {
+      "topic_keywords": ["imperfect tense", "imparfait"],
+      "concept_keywords": ["ongoing", "habitual"],
+      "level": ["gcse", "a-level"],
+      "q": "When do you use the imperfect rather than the passé composé?",
+      "correct": "For ongoing, habitual, or descriptive past actions.",
+      "misconception": "Just for older events.",
+      "random_wrong": "When you don't know what tense to use.",
+      "why": "Students confuse past tenses by recency. The distinction is ASPECTUAL: passé composé = completed event ('I went'); imparfait = ongoing/habitual/descriptive ('I used to go', 'I was going')."
+    },
+    {
+      "topic_keywords": ["subjunctive", "mood"],
+      "concept_keywords": ["il faut que", "expressions"],
+      "level": ["a-level"],
+      "q": "What follows 'il faut que' grammatically?",
+      "correct": "A verb in the subjunctive mood.",
+      "misconception": "An infinitive.",
+      "random_wrong": "A noun.",
+      "why": "Students use infinitive after impersonal expressions. 'Il faut que tu PARTES' (subjunctive), not 'il faut que tu partir'. The que triggers subjunctive in the following clause."
+    },
+    {
+      "topic_keywords": ["pronouns", "object"],
+      "concept_keywords": ["direct", "indirect"],
+      "level": ["a-level"],
+      "q": "What is the difference between 'le' and 'lui' as pronouns?",
+      "correct": "Le replaces a direct object (him/it); lui replaces an indirect object (to him/her).",
+      "misconception": "They are interchangeable.",
+      "random_wrong": "Le is masculine, lui is feminine.",
+      "why": "Students don't distinguish object types. 'Je le vois' (I see him - direct); 'Je lui parle' (I speak TO him - indirect). The verb's preposition determines the pronoun type."
+    },
+    {
+      "topic_keywords": ["depuis", "time expressions"],
+      "concept_keywords": ["present", "duration"],
+      "level": ["a-level"],
+      "q": "What tense follows 'depuis' for ongoing situations in French?",
+      "correct": "Present tense (J'habite ici DEPUIS 5 ans - I have lived here for 5 years).",
+      "misconception": "Past tense (because it is translated as 'have lived' in English).",
+      "random_wrong": "Future tense.",
+      "why": "Students translate the English tense literally. French uses PRESENT with depuis because the action is ongoing - 'I am still living'. The English perfect tense misleads students into using past in French."
+    },
+    {
+      "topic_keywords": ["conditional", "if clauses"],
+      "concept_keywords": ["si", "imperfect"],
+      "level": ["a-level"],
+      "q": "What follows 'si' (if) in a conditional sentence like 'If I were rich, I would travel'?",
+      "correct": "Imperfect tense (Si j'ÉTAIS riche, je voyagerais).",
+      "misconception": "Conditional tense (Si je serais...).",
+      "random_wrong": "Future tense.",
+      "why": "A classic error - students put conditional after si. The rule: si + IMPERFECT in the if-clause, conditional in the result clause. Never 'si je serais' - always 'si j'étais'."
+    },
+    {
+      "topic_keywords": ["pronunciation", "nasal vowels"],
+      "concept_keywords": ["on", "an", "in"],
+      "level": ["gcse"],
+      "q": "How is the 'on' in 'bon' pronounced?",
+      "correct": "As a nasal vowel - the n is not fully pronounced.",
+      "misconception": "Like English 'on'.",
+      "random_wrong": "Silent.",
+      "why": "Students pronounce nasal vowels like English consonants. French 'on', 'an', 'in', 'un' are nasalised vowels - air resonates through the nose but the n consonant itself isn't articulated."
+    },
+    {
+      "topic_keywords": ["definite article", "general statements"],
+      "concept_keywords": ["le la les", "abstract"],
+      "level": ["gcse"],
+      "q": "How do you say 'I like coffee' in French?",
+      "correct": "J'aime le café.",
+      "misconception": "J'aime café (dropping the article).",
+      "random_wrong": "J'aime du café.",
+      "why": "English drops articles for general likes/dislikes; French keeps them. For general preferences, use the DEFINITE article: j'aime le chocolat, je déteste les épinards."
+    },
+    {
+      "topic_keywords": ["possessive adjectives", "agreement"],
+      "concept_keywords": ["mon ma mes", "gender"],
+      "level": ["gcse"],
+      "q": "How do you say 'my house' in French?",
+      "correct": "Ma maison.",
+      "misconception": "Mon maison.",
+      "random_wrong": "Mes maison.",
+      "why": "Students use mon as default. French possessives agree with the OBJECT's gender, not the owner. Maison is feminine, so MA maison. (Note: mon goes before feminine nouns starting with a vowel - mon amie.)"
+    },
+    {
+      "topic_keywords": ["irregular verbs", "etre"],
+      "concept_keywords": ["present", "conjugation"],
+      "level": ["gcse"],
+      "q": "What is the 'vous' form of 'être' in the present tense?",
+      "correct": "êtes.",
+      "misconception": "êtez.",
+      "random_wrong": "est.",
+      "why": "Students apply -ez ending from regular verbs. Être is irregular: je suis, tu es, il est, nous sommes, vous ÊTES, ils sont. Memorisation is essential - être appears constantly."
+    },
+    {
+      "topic_keywords": ["du de la", "partitive"],
+      "concept_keywords": ["some", "any"],
+      "level": ["gcse"],
+      "q": "How do you say 'I am eating bread' (some bread) in French?",
+      "correct": "Je mange du pain.",
+      "misconception": "Je mange pain.",
+      "random_wrong": "Je mange le pain (which means 'the bread').",
+      "why": "Students drop the partitive. French requires DU/DE LA/DES for 'some' even when English omits it. Skipping it makes the sentence ungrammatical in French."
+    },
+    {
+      "topic_keywords": ["preposition", "a en"],
+      "concept_keywords": ["country", "city"],
+      "level": ["gcse", "a-level"],
+      "q": "How do you say 'in France'?",
+      "correct": "En France.",
+      "misconception": "À France.",
+      "random_wrong": "Dans France.",
+      "why": "Students default to à. The rule: EN for feminine countries (most ending -e: France, Italie, Espagne); AU for masculine (au Portugal, au Canada); AUX for plural (aux États-Unis). À is for cities (à Paris)."
+    },
+    {
+      "topic_keywords": ["question formation", "interrogative"],
+      "concept_keywords": ["inversion", "est ce que"],
+      "level": ["gcse"],
+      "q": "What is the most common informal way to form a yes/no question in French?",
+      "correct": "Rising intonation (statement said as a question) or using 'est-ce que'.",
+      "misconception": "Always using inversion (Parlez-vous?).",
+      "random_wrong": "Adding 'pas' at the end.",
+      "why": "Students learn formal inversion first. In conversation, French uses intonation or est-ce que far more often. Inversion sounds formal/written - 'Tu parles français?' is the everyday form."
+    },
+    {
+      "topic_keywords": ["false friends", "cognates"],
+      "concept_keywords": ["sensible"],
+      "level": ["gcse", "a-level"],
+      "q": "What does 'sensible' mean in French?",
+      "correct": "Sensitive (emotionally).",
+      "misconception": "Sensible (showing good judgment).",
+      "random_wrong": "Sensible to touch.",
+      "why": "Sensible is a faux ami. French 'sensible' = sensitive/easily affected. English 'sensible' = raisonnable in French. Confusion leads to wrong impressions of someone's character."
+    },
+    {
+      "topic_keywords": ["agreement", "past participle"],
+      "concept_keywords": ["preceding direct object", "avoir"],
+      "level": ["a-level"],
+      "q": "When does the past participle agree with avoir verbs?",
+      "correct": "When the direct object comes BEFORE the verb (la pomme que j'ai mangée).",
+      "misconception": "Never - avoir never causes agreement.",
+      "random_wrong": "Always.",
+      "why": "Students learn 'avoir = no agreement' as a blanket rule. The exception is PRECEDING DIRECT OBJECT: 'Je l'ai mangée' (la pomme) requires the participle to agree with the object pronoun."
+    },
+    {
+      "topic_keywords": ["identity", "family", "relationships", "parents"],
+      "concept_keywords": ["parents", "false friend", "family"],
+      "level": ["gcse", "a-level"],
+      "q": "What does 'mes parents' mean in French?",
+      "correct": "My parents (mother and father specifically) - but 'parents' can also mean relatives more broadly.",
+      "misconception": "It always means all my relatives.",
+      "random_wrong": "It means just my mother.",
+      "why": "Students think French 'parents' = English 'relatives' because in some contexts it does. Usually 'mes parents' = mother+father; 'mes proches' or 'ma famille' = relatives more broadly. Context matters."
+    },
+    {
+      "topic_keywords": ["identity", "relationships", "formal", "informal"],
+      "concept_keywords": ["tu", "vous", "formal", "address"],
+      "level": ["gcse", "a-level"],
+      "q": "When meeting a teacher or stranger for the first time, do you use 'tu' or 'vous'?",
+      "correct": "Vous - the formal/polite form.",
+      "misconception": "Tu, because it's singular and you're talking to one person.",
+      "random_wrong": "Either is fine in modern French.",
+      "why": "Students see 'vous' as plural only. In French, 'vous' is BOTH plural AND the formal singular. Using 'tu' with a stranger or authority figure is rude. Wait to be invited to 'tutoyer'."
+    },
+    {
+      "topic_keywords": ["school", "subjects", "future plans"],
+      "concept_keywords": ["matières", "school subject", "definite article"],
+      "level": ["gcse"],
+      "q": "How do you say 'I study maths' in French?",
+      "correct": "J'étudie les maths.",
+      "misconception": "J'étudie maths.",
+      "random_wrong": "J'étudie des maths.",
+      "why": "Students drop the article like English. School subjects in French take the DEFINITE article: 'j'aime le français', 'j'étudie les sciences', 'je déteste l'histoire'. This is the rule for general nouns."
+    },
+    {
+      "topic_keywords": ["holidays", "travel", "transport"],
+      "concept_keywords": ["aller", "venir", "movement verb"],
+      "level": ["gcse", "a-level"],
+      "q": "How do you say 'I am going to Spain' in French?",
+      "correct": "Je vais en Espagne.",
+      "misconception": "Je viens en Espagne.",
+      "random_wrong": "Je vais à Espagne.",
+      "why": "Students confuse aller (to go - movement away from speaker) and venir (to come - movement towards speaker). 'Je vais' = I'm going; 'je viens' = I'm coming. Also: en + feminine country, au + masculine, aux + plural."
+    },
+    {
+      "topic_keywords": ["holidays", "travel", "future plans"],
+      "concept_keywords": ["aller + infinitive", "futur proche", "near future"],
+      "level": ["gcse"],
+      "q": "How do you say 'I am going to visit Paris' (near future) in French?",
+      "correct": "Je vais visiter Paris.",
+      "misconception": "Je vais à visiter Paris.",
+      "random_wrong": "Je vais visite Paris.",
+      "why": "Students add 'à' between aller and the infinitive. Futur proche structure is ALLER (conjugated) + INFINITIVE, with no preposition: 'je vais manger', 'je vais aller', 'je vais partir'."
+    },
+    {
+      "topic_keywords": ["free time", "hobbies", "likes dislikes"],
+      "concept_keywords": ["jouer à", "jouer de", "sport", "instrument"],
+      "level": ["gcse"],
+      "q": "How do you say 'I play the piano' vs 'I play football'?",
+      "correct": "Je joue DU piano (instrument) vs je joue AU football (sport).",
+      "misconception": "Same preposition for both - 'je joue piano', 'je joue football'.",
+      "random_wrong": "Je joue le piano, je joue le football.",
+      "why": "Students drop or confuse prepositions. The rule: jouer DE + instrument (de, du, de la); jouer À + sport/game (à, au, aux). Easy way to lose marks in speaking exams about hobbies."
+    },
+    {
+      "topic_keywords": ["technology", "social media", "free time"],
+      "concept_keywords": ["present tense", "en train de", "ongoing"],
+      "level": ["gcse", "a-level"],
+      "q": "How do you say 'I am using my phone right now' (emphasising the action is in progress)?",
+      "correct": "Je suis en train d'utiliser mon portable.",
+      "misconception": "Je suis utilisant mon portable.",
+      "random_wrong": "Je vais utiliser mon portable.",
+      "why": "Students translate English '-ing' as a participle. French has no progressive tense - the present 'j'utilise' covers both 'I use' and 'I am using'. For emphasis on the ongoing action, use 'être en train de + infinitive'."
+    },
+    {
+      "topic_keywords": ["technology", "social media"],
+      "concept_keywords": ["false friend", "actuellement", "currently"],
+      "level": ["gcse", "a-level"],
+      "q": "How do you say 'Currently, I am using social media' in French?",
+      "correct": "Actuellement, j'utilise les réseaux sociaux.",
+      "misconception": "Actually, j'utilise les réseaux sociaux.",
+      "random_wrong": "Récemment, j'utilise les réseaux sociaux.",
+      "why": "Students avoid actuellement thinking it means 'actually'. It really means CURRENTLY. Useful for tech/social media topics. To say 'actually' (in reality), use 'en fait' or 'en réalité'."
+    },
+    {
+      "topic_keywords": ["customs", "traditions", "festivals"],
+      "concept_keywords": ["accent", "diacritic", "cognate"],
+      "level": ["gcse"],
+      "q": "What is the French word for 'Christmas'?",
+      "correct": "Noël (with diaeresis on the ë).",
+      "misconception": "Noel.",
+      "random_wrong": "Christmas (the English word is used).",
+      "why": "Students omit the diaeresis (tréma). Many festival words have crucial accents: Noël, fête, pâques, élève (student-related). Omitting accents in writing loses marks; the tréma indicates 'e' is pronounced separately."
+    },
+    {
+      "topic_keywords": ["future plans", "work", "subjunctive"],
+      "concept_keywords": ["espérer que", "subjonctif", "souhaiter"],
+      "level": ["a-level"],
+      "q": "Which mood follows 'je souhaite que' (I wish that)?",
+      "correct": "Subjunctive - 'Je souhaite que tu RÉUSSISSES'.",
+      "misconception": "Indicative - 'Je souhaite que tu réussis'.",
+      "random_wrong": "Infinitive.",
+      "why": "Students use indicative after expressions of wish. SOUHAITER QUE, VOULOIR QUE, AIMER QUE all trigger subjunctive when there's a different subject. Note: espérer que typically takes indicative - a common irregularity."
+    },
+    {
+      "topic_keywords": ["holidays", "weather", "imperfect"],
+      "concept_keywords": ["imparfait", "description", "weather"],
+      "level": ["gcse", "a-level"],
+      "q": "How do you describe weather in the past, e.g. 'it was sunny'?",
+      "correct": "Imperfect - 'Il faisait beau' (descriptive past state).",
+      "misconception": "Passé composé - 'Il a fait beau' (which suggests a completed event).",
+      "random_wrong": "Present - 'Il fait beau'.",
+      "why": "Weather descriptions in past narratives use IMPERFECT (ongoing state/description). Passé composé is for completed events. 'Quand je suis arrivé, il faisait beau' = ongoing weather backdrop; arrived = completed action."
+    },
+    {
+      "topic_keywords": ["family", "identity", "possessive"],
+      "concept_keywords": ["son sa ses", "his", "her", "gender"],
+      "level": ["gcse"],
+      "q": "How do you say 'his sister' and 'her sister' in French?",
+      "correct": "Both are 'sa sœur' - possessives agree with the OBJECT possessed, not the owner.",
+      "misconception": "His = son, her = sa - based on owner's gender.",
+      "random_wrong": "Lui sœur / elle sœur.",
+      "why": "Students apply English logic where 'his/her' shows owner's gender. In French, the possessive agrees with what is owned: sœur is feminine, so SA regardless of whether owner is male or female. Context shows whose."
+    },
+    {
+      "topic_keywords": ["technology", "school", "perfect", "imperfect"],
+      "concept_keywords": ["passé composé", "imparfait", "aspect"],
+      "level": ["a-level"],
+      "q": "How do you say 'I was using my computer when the phone rang' in French?",
+      "correct": "J'utilisais mon ordinateur quand le téléphone a sonné.",
+      "misconception": "J'ai utilisé mon ordinateur quand le téléphone a sonné.",
+      "random_wrong": "J'utilise mon ordinateur quand le téléphone sonne.",
+      "why": "Students use passé composé for both verbs. The rule: ONGOING action (was using) = IMPARFAIT; INTERRUPTING action (rang) = PASSÉ COMPOSÉ. This tense pairing is critical for narrative writing."
+    },
+    {
+      "topic_keywords": ["holidays", "travel", "preposition"],
+      "concept_keywords": ["chez", "at someone's", "place"],
+      "level": ["gcse"],
+      "q": "How do you say 'I'm going to my friend's house' in French?",
+      "correct": "Je vais chez mon ami.",
+      "misconception": "Je vais à la maison de mon ami.",
+      "random_wrong": "Je vais à mon ami.",
+      "why": "Students translate word-for-word using 'à la maison de'. 'Chez' specifically means 'at the home/place of' someone: chez moi, chez le médecin, chez Pierre. Much more idiomatic and tested."
+    }
+  ]
+}

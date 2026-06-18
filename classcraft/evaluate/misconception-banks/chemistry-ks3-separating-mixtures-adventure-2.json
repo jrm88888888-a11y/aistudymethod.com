@@ -1,0 +1,35 @@
+{
+  "stem": "chemistry-ks3-separating-mixtures-adventure-2",
+  "topic": "Separating Mixtures",
+  "subject": "chemistry",
+  "level": "ks3",
+  "quality": "low",
+  "matched_items": 0,
+  "items": [
+    {
+      "q": "What part of distillation cools the vapour back to liquid?",
+      "correct": "Condenser",
+      "misconception": "Filter paper",
+      "random_wrong": "Bunsen burner",
+      "why": "Correct answer: Condenser. “Filter paper” sounds right because it borrows the language of the topic — but it fails this question. Re-read the notes on why.",
+      "src": "mcq"
+    },
+    {
+      "q": "Which method would best separate water from salty sea water?",
+      "correct": "Distillation",
+      "misconception": "Filtration",
+      "random_wrong": "Chromatography",
+      "why": "Correct answer: Distillation. “Filtration” sounds right because it borrows the language of the topic — but it fails this question. Re-read the notes on why.",
+      "src": "mcq"
+    },
+    {
+      "q": "At what temperature does pure water boil in °C at normal pressure?",
+      "correct": "100",
+      "misconception": "50",
+      "random_wrong": "200",
+      "why": "The real figure is 100. The wrong options cluster deliberately close — anchor the exact number to one concrete fact so it can't drift.",
+      "src": "numerical"
+    }
+  ],
+  "derived_items": 3
+}
